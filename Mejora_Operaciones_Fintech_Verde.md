@@ -75,7 +75,7 @@
 
 ---
 
-## ✅ Beneficio Esperado
+## Beneficio Esperado
 - Reducción del **40% en tiempos de implementación y soporte**.  
 - Mejora de la retención y fidelización de clientes.  
 - Mayor capacidad de expansión sin incrementar los costos operativos en la misma proporción.  
